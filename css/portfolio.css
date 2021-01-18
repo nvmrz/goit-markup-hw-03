@@ -1,0 +1,56 @@
+.filter-button{
+    border: 0;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.87;
+    background-color: #F5F4FA;
+    color: var(--main-color);
+    letter-spacing: 0.06em;
+    
+}
+.filter-button:hover,
+.filter-button:focus{
+    background-color: var(--active-color);
+    color: #ffffff;
+    border: 0;
+}
+
+.portfolio-tipes{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.62;
+    letter-spacing: 0.03em;
+    color: var(--main-color);
+    background-color: #F5F4FA;
+}
+
+
+.portfolio-tipes:hover,
+.portfolio-tipes:focus{
+    color: #ffffff;
+    background-color: var(--active-color);
+}
+
+.portfolio-title {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 0.06em;
+    color: var(--main-color);
+}
+
+.portfolio-description{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 0.03em;
+    color: var(--secondary-color);
+}
+
+.list{
+    list-style: none;
+    text-decoration: none;
+}
+
