@@ -92,6 +92,11 @@ h3{
 
 .portfolio-items{
     margin-bottom: 30px;
+    border: 1px solid #EEEEEE;
+    box-sizing: border-box;
 }
 
 
+.portfolio-td{
+    padding: 20px 24px;
+}

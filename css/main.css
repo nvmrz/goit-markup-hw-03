@@ -50,9 +50,13 @@ body{
     margin-right: auto;
     padding: 0px 15px;
     margin-bottom: 0px;
-    outline: 2px solid tomato;
-
+    
 }
+.header{
+    margin-bottom: 94px;
+    border: 1px solid #ECECEC;
+}
+
 
 /* logo */
 
@@ -131,6 +135,7 @@ body{
 /* hero */
 .hero{
     text-align: center;
+    padding-bottom: 94px;
 }
 .hero-title{
     font-weight: 900;
@@ -163,9 +168,10 @@ body{
 
 /* Section */
 .section{
-    padding-top: 94px;
     padding-bottom: 94px;
 }
+
+
 
 /* features */
 
@@ -231,6 +237,7 @@ body{
 .team-list{
     display: flex;
     justify-content: space-between;
+    text-align: center;
 }
 .team-title{
     font-weight: 500;
