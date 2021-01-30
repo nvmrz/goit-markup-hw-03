@@ -53,8 +53,7 @@ body{
     
 }
 .header{
-    margin-bottom: 94px;
-    border: 1px solid #ECECEC;
+    border-bottom: 1px solid #ECECEC;
 }
 
 
@@ -144,8 +143,6 @@ body{
     text-align: center;
     letter-spacing: 0.06em;
 
-    background-color: tomato;
-
     margin-top: 0px;
     margin-bottom: 30px;
     }
@@ -168,8 +165,16 @@ body{
 
 /* Section */
 .section{
+    padding-top: 94px;
     padding-bottom: 94px;
 }
+
+.section-works{
+    padding-top: 0px;
+    padding-bottom: 94px;
+}
+
+
 
 
 
